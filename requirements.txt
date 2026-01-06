@@ -1,0 +1,8 @@
+SQLAlchemy>=2.0.0
+ddgs>=6.0.0
+google.genai
+python-dotenv
+browser-use>=0.1.0
+langchain-google-genai>=0.0.5
+langchain-groq
+playwright>=1.40.0
