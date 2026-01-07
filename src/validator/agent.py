@@ -22,6 +22,8 @@ from browser_use import Agent, Controller
 from src.data.database import SessionLocal
 from src.data.models import Coupon, Website, TestLog
 
+# TODO: chain the LLMS to avoid rate limits / downtimes. gemini-2.5 > gemini-2.5-flash-lite > llama-3.3-70b-versatile
+
 # Initialize LLM 
 llm = CustomChatGroq(
     model="llama-3.3-70b-versatile",
