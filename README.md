@@ -6,7 +6,7 @@
 
 <em>AI hunts every discount, so you never miss savings.</em>
 
-<img src="https://img.shields.io/github/license/omarg-dev/agentic-coupon-finder?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+<img src="https://img.shields.io/github/license/omarg-dev/agentic-coupon-finder?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff&v=1" alt="license">
 <img src="https://img.shields.io/github/last-commit/omarg-dev/agentic-coupon-finder?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/omarg-dev/agentic-coupon-finder?style=flat-square&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/omarg-dev/agentic-coupon-finder?style=flat-square&color=0080ff" alt="repo-language-count">
