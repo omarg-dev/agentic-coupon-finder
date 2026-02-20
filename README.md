@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" alt="Project Logo"/>
-
 # AGENTIC-COUPON-FINDER
 
 <em>AI hunts every discount, so you never miss savings.</em>
