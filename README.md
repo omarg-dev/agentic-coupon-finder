@@ -48,7 +48,7 @@
 
 ## ◈ Overview
 
-**agentic-coupon-finder** is an automation pipeline that discovers, extracts, and validates e-commerce coupon codes. It combines LLM-based text extraction with autonomous browser navigation to cover the full workflow, from a raw domain name to verified, persisted promo codes.
+**agentic-coupon-finder** is an automation pipeline that discovers, extracts, and validates e-commerce coupon codes using headless browsing with LAMs (Large Action Models).
 
 The pipeline has three stages:
 
